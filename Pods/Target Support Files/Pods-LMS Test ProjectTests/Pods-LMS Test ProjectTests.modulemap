@@ -1,0 +1,6 @@
+framework module Pods_LMS_Test_ProjectTests {
+  umbrella header "Pods-LMS Test ProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

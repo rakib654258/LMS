@@ -1,0 +1,6 @@
+framework module Pods_LMS_Test_Project_LMS_Test_ProjectUITests {
+  umbrella header "Pods-LMS Test Project-LMS Test ProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
